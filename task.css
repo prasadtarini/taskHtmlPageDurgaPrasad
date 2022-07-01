@@ -1,0 +1,210 @@
+.link{
+    margin-left:auto;
+    padding-top: 10px;
+}
+.colo{
+    color:white;
+    font-size:20px;
+    font-weight: bold;
+}
+.icon{
+    color: white;
+
+}
+.ic{
+    color: white;
+    font-size: 70px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.cont1{
+    background-color: #000066;
+    text-align: center;
+    padding: 10px;
+}
+.head1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+.DCont1{
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+.inp1{
+    border-radius: 15px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 2px;
+}
+.butt1{
+    color: white;
+    background-color: #000066;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px;
+}
+.head2{
+    color: #000066;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.rad{
+    color: white;
+    margin-right: 5px;
+}
+.head3{
+    color: #000066;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 80px;
+
+}
+.cont4{
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000066;
+    height: 200px;
+}
+.cont5{
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #000066;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+
+}
+.contt6{
+    padding: 10px;
+    background-color: #000066;  
+    margin-bottom: 20px; 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/* .head3{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+} */
+.contt7{
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightslategray;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.imgg{
+    width: 50px;
+    height: 50px;
+}
+.head33{
+    color: #000066;
+    font-size: 15px;
+    font-weight: bold;
+}
+.para333{
+    color: #000066;
+    font-size: 13px;
+
+}
+.contt81{
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+    background-image: url('https://us.123rf.com/450wm/chagin/chagin1905/chagin190500198/122702584-serious-businessman-working-with-computer-in-an-office.jpg?ver=6');
+    background-size: cover;
+    margin: 20px;
+}
+.para3334{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 90px;
+}
+.contt82{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    color: white;
+    margin: 20px;
+}
+.contt83{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    color: white;
+    margin: 20px;
+}
+.contt9{
+    border-style: solid;
+    border-radius: 30px;
+    border-color: white;
+    border-width: 2px;
+    padding: 10px;
+
+}
+.butt55{
+    color: #000066;
+    background-color: white;
+    padding: 10px;
+    margin-left: 40%;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+.contt91{
+    height: 200px;
+    width: 250px;
+    background-color: lightgray;
+    color: white;
+    margin: 20px;
+}
+.cont10000{
+    background-color: lightgray;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.imgg88{
+    width: 350px;
+    height: 350px;
+    margin-top: 50px;
+    
+}
+.cont1111{
+    background-color: black;
+    width: 160px;
+    border-radius: 5px;
+    height: 45px;
+    padding: 5px;
+}
+.img999{
+    width: 40px;
+    height: 30px;
+}
+.contlas{
+    width: 100%;
+    background-color: #000066;
+    padding: 5px;
+}
